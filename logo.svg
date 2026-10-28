@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Luban Electrical Services</title>
+  <desc id="desc">A navy solar panel and golden sun with an electric bolt, beside the Luban Electrical Services wordmark.</desc>
+  <rect width="1000" height="320" fill="#ffffff"/>
+  <g transform="translate(30 32)">
+    <circle cx="128" cy="104" r="76" fill="#F4B323"/>
+    <path d="M45 125h174l-24 106H69z" fill="#103B59" stroke="#ffffff" stroke-width="8" stroke-linejoin="round"/>
+    <path d="M90 128l-8 35m50-35-3 35m51-35-8 35M75 181h134m-146 28h140" fill="none" stroke="#83C7D8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M145 90l-42 78h36l-13 55 58-87h-39l18-46z" fill="#ffffff" stroke="#103B59" stroke-width="5" stroke-linejoin="round"/>
+  </g>
+  <g fill="#103B59">
+    <text x="300" y="156" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="2">LUBAN</text>
+    <text x="305" y="215" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing="8">ELECTRICAL SERVICES</text>
+  </g>
+  <path d="M305 242h510" stroke="#F4B323" stroke-width="7" stroke-linecap="round"/>
+</svg>
